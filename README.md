@@ -1,6 +1,11 @@
 # minstyle-tw
 TiddlyWiki with minstyle.io CSS and lot's of love
 
+New project 12/2020 from old one 04/2020 (https://github.com/silvyn/tw-minstyle-old).
+
+Begin with 5.1.23 TiddlyWiki prerelease version.
+
+
 ## minstyle.io
 
 * https://minstyle.io/
